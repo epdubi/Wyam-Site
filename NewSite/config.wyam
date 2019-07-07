@@ -1,0 +1,10 @@
+#recipe Blog    
+#theme Trophy
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "host.com";
+Settings[BlogKeys.Title] = "My Blog";
+Settings[BlogKeys.Description] = "Eric Wagner's Blog";
+Settings[BlogKeys.Intro] = "Software Developer based in St. Louis, Missouri.";
+
+// Add any pipeline customizations here
