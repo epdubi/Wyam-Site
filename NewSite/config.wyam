@@ -2,8 +2,8 @@
 #theme Trophy
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
+Settings[Keys.Host] = "ericwagner.dev";
+Settings[BlogKeys.Title] = "Eric Wagner's Blog";
 Settings[BlogKeys.Description] = "Eric Wagner's Blog";
 Settings[BlogKeys.Intro] = "Software Developer based in St. Louis, Missouri.";
 

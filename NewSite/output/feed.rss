@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>My Blog</title>
-		<link>http://host.com/</link>
+		<title>Eric Wagner's Blog</title>
+		<link>http://ericwagner.dev/</link>
 		<description>Eric Wagner's Blog</description>
 		<copyright>2019</copyright>
-		<pubDate>Sun, 07 Jul 2019 19:52:22 GMT</pubDate>
-		<lastBuildDate>Sun, 07 Jul 2019 19:52:22 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Jul 2019 02:52:14 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Jul 2019 02:52:14 GMT</lastBuildDate>
 		<item>
 			<title>First Post</title>
-			<link>http://host.com/posts/first-post</link>
+			<link>http://ericwagner.dev/posts/first-post</link>
 			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
-			<guid>http://host.com/posts/first-post</guid>
+			<guid>http://ericwagner.dev/posts/first-post</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content:encoded>

@@ -34,7 +34,7 @@ p { margin: 0 0 0.75em; }
 
 a { color: #0a0a0a; text-decoration: none; transition: color 0.4s ease-in-out; }
 
-a:hover, a:active, a:focus { color: #663399; }
+a:hover, a:active, a:focus { color: #6495ed; }
 
 figure { margin: 0; }
 
@@ -49,7 +49,7 @@ cite:before { content: "\2014 \0020"; }
 ol, ul { margin: 0; padding: 0; }
 
 /** Text Selection */
-::selection { color: #fff; background-color: #663399; text-shadow: none; }
+::selection { color: #fff; background-color: #6495ed; text-shadow: none; }
 
 /** Underline Slide from left and back */
 /** Button Slide Need to still add hover state in parent element box-shadow: inset 175px 0 0 0 $color-alpha; color: $color-white; */
@@ -61,7 +61,7 @@ ol, ul { margin: 0; padding: 0; }
 
 .sidenav a span { position: relative; color: #0a0a0a; }
 
-.sidenav a span:after { content: ''; position: absolute; bottom: 0; left: 0; width: 0%; border-bottom: 3px solid #663399; transition: width 0.4s ease-in-out; }
+.sidenav a span:after { content: ''; position: absolute; bottom: 0; left: 0; width: 0%; border-bottom: 3px solid #6495ed; transition: width 0.4s ease-in-out; }
 
 .sidenav a span:hover:after { width: 100%; }
 
@@ -78,6 +78,8 @@ main > .nav { top: 1.75em; }
 
 .nav.openbtn { left: 2em !important; position: fixed; top: 1.5em; cursor: pointer; }
 
+.cta-about { color: white; font-size: 14px; }
+
 footer { bottom: 0; height: 60px; /* Height of the footer */ }
 
-.fa.fa-bars, .fa.fa-arrow-left { color: #663399; -webkit-text-stroke-width: 0.5px; -webkit-text-stroke-color: black; }
+.fa.fa-bars, .fa.fa-arrow-left { color: #6495ed; -webkit-text-stroke-width: 0.5px; -webkit-text-stroke-color: black; }
