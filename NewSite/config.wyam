@@ -2,9 +2,13 @@
 #theme Trophy
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "ericwagner.dev";
+Settings[Keys.Host] = "epdubi.github.io";
 Settings[BlogKeys.Title] = "Eric Wagner's Blog";
 Settings[BlogKeys.Description] = "Eric Wagner's Blog";
 Settings[BlogKeys.Intro] = "Software Developer based in St. Louis, Missouri.";
+
+// Github pages config
+Settings[Keys.LinksUseHttps] = true;
+Settings[Keys.LinkRoot] = "ericwagner.dev";
 
 // Add any pipeline customizations here

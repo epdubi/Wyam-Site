@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://ericwagner.dev/</id>
+	<id>https://epdubi.github.io/ericwagner.dev</id>
 	<title>Eric Wagner's Blog</title>
-	<link rel="self" href="http://ericwagner.dev/" />
+	<link rel="self" href="https://epdubi.github.io/ericwagner.dev" />
 	<rights>2019</rights>
-	<updated>2019-07-11T04:15:18Z</updated>
+	<updated>2019-07-14T03:23:07Z</updated>
 	<subtitle>Eric Wagner's Blog</subtitle>
 	<entry>
-		<id>http://ericwagner.dev/posts/first-post</id>
+		<id>https://epdubi.github.io/ericwagner.dev/posts/first-post</id>
 		<title>First Post</title>
-		<link href="http://ericwagner.dev/posts/first-post" />
+		<link href="https://epdubi.github.io/ericwagner.dev/posts/first-post" />
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content>
